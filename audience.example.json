@@ -1,0 +1,8 @@
+{
+  "week": "2026-W38",
+  "processed_titles": ["Captioned lesson published"],
+  "assets": {"lesson-1": "Captioned lesson download"},
+  "subscribers": [
+    {"email": "creator@example.test", "subscribed": true, "asset_ids": ["lesson-1"]}
+  ]
+}
